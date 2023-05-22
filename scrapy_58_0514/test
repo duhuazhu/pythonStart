@@ -1,0 +1,13 @@
+1.scrapy 项目结果
+    项目名字
+        项目名字
+            spiders 文件夹  (存储的爬虫文件)
+                init
+                自定义的爬虫文件    核心功能文件
+            init
+            items 定义数据结构地方  爬虫数据都包含
+            middleware 中间件  代理
+            pipelines 管道  用来处理数据 然后
+            settings  配置文件  robots 协议  ua定义等
+
+2.response的属性和方法
